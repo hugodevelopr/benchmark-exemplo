@@ -1,0 +1,56 @@
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de build
+bin/
+obj/
+out/
+
+# Diretórios do Visual Studio
+.vs/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Arquivos de cache, configuração e logs
+*.log
+*.cache
+*.pdb
+*.mdb
+*.opendb
+*.VC.opendb
+*.VC.db
+
+# Arquivos de configurações locais
+*.VC.VC.opendb
+ipch/
+*.aps
+*.ncb
+*.orig
+
+# Diretório de pacotes do NuGet
+packages/
+# Deixe o arquivo de configuração do NuGet
+!packages/*.config
+
+# Configurações de instalação do NuGet
+*.nupkg
+# Arquivos do NuGet v3
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Arquivos de segurança e chaves
+*.snk
+
+# Arquivos gerados pelo Visual Studio Code
+.vscode/
+
+# Arquivos de publicação
+publish/
+AppPackages/
